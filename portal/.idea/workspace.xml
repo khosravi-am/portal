@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01449d38-0be6-40eb-a18a-38916ce347cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l3uB62njlGV2BZ7Rz5vVeYjA0G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="khosro" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="khosro.Main" />
+      <module name="portal" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01449d38-0be6-40eb-a18a-38916ce347cc" name="Default Changelist" comment="" />
+      <created>1606837963020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606837963020</updated>
+      <workItem from="1606837986043" duration="7000" />
+      <workItem from="1606986033858" duration="3010000" />
+      <workItem from="1607407899277" duration="6083000" />
+      <workItem from="1607479108543" duration="26829000" />
+      <workItem from="1607578247527" duration="8619000" />
+      <workItem from="1607599547215" duration="9026000" />
+      <workItem from="1607825588674" duration="12319000" />
+      <workItem from="1607869853581" duration="866000" />
+      <workItem from="1607936395771" duration="12027000" />
+      <workItem from="1608009274646" duration="7432000" />
+      <workItem from="1608019501675" duration="1976000" />
+      <workItem from="1608028454211" duration="11490000" />
+      <workItem from="1608085151818" duration="14578000" />
+      <workItem from="1608128942466" duration="795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1607581985830">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1607581985830" />
+    <state x="413" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607519312244">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1607519312244" />
+    <state width="1323" height="166" key="GridCell.Tab.0.bottom" timestamp="1608125881498">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1608125881498" />
+    <state width="1323" height="166" key="GridCell.Tab.0.center" timestamp="1608125881498">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1608125881498" />
+    <state width="1323" height="166" key="GridCell.Tab.0.left" timestamp="1608125881498">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1608125881498" />
+    <state width="1323" height="166" key="GridCell.Tab.0.right" timestamp="1608125881498">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1608125881498" />
+    <state x="458" y="74" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607860230964">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="458" y="74" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1607860230964" />
+    <state x="392" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1608014053877">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="392" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1608014053876" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1607948983022">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1607948983022" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1607523851838">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1607523851838" />
+  </component>
+</project>
